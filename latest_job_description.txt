@@ -1,0 +1,41 @@
+Computer Vision/Machine Learning Scientist - Intern
+About Us
+Object Tech, Inc. is a leading technology company providing full-stack AI solutions to reform tech
+enterprises’ technology R&D; and production. With the fusion of experienced scientists and
+engineers in materials science, nanotechnology, semiconductor manufacturing, machine learning,
+computer vision and software engineering, we are thriving on cutting-edge end-to-end AI solutions
+to help accelerate deep tech R&D; and promote high-yield production. We are committed to
+fostering a dynamic and inclusive work environment where creativity and innovation thrive.
+Job Description
+We are seeking motivated and talented interns majoring in Computer Science, Electrical
+Engineering, or related fields to join our Product Team. Under the direction of the Head of
+Product/Research, the intern engineer will be trained on software developments with an emphasis
+on designing and deploying LLM/NLP/computer vision/machine learning systems. This role offers
+an excellent opportunity to gain hands-on experience in building an AI/ML system.
+Key Responsibilities
+• AI/ML System Design: Collaborate with our research team to design, develop, and deploy an
+LLM/NLP/CVAI/ML system.
+• Coding and Software Development: Write clean, efficient, and maintainable code in Python.
+Participate in code reviews and debugging.
+• Collaboration: Work closely with cross-functional teams, including product managers, designers,
+and other developers, to deliver high-quality solutions.
+• Continuous Learning: Stay updated with the latest industry trends, technologies, and best
+practices. Participate in training sessions and workshops.
+• Data Analysis: Collect, clean, and analyze data to derive actionable insights. Utilize statistical
+methods and tools for data analysis.
+Required Qualifications
+• Pursuing or recently completed a degree in Computer Science, Computer Engineering, Math, or
+related field.
+• Experience in developing a LLM/NLP/CV system, such as object detector or image classifier.
+• Experience in developing AI/ML systems in Pytorch.
+• Knowledge of Object-Oriented Programming (OOP).
+• Experience with version control systems, preferably Git.
+• Strong problem-solving and communication skills.
+• Ability to work independently and manage multiple tasks.
+• Enthusiasm for learning new technologies.
+Preferred Qualifications
+• PhD in Computer Science, Statistics, or a related field preferred.
+• Previous experience in LLM training and fine-tuning, along with practical applications such as
+RAG, AI Agents, and related technologies.
+• Familiarity with machine learning frameworks, such as Pytorch.
+• Familiarity with cloud platforms (AWS, Azure, Google Cloud)

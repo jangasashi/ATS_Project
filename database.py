@@ -1,5 +1,3 @@
-#database py
-
 import sqlite3
 
 DB_NAME = "ats_users.db"
