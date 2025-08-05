@@ -1,0 +1,4 @@
+#users.cv 
+username,password,role
+admin,admin123,admin
+recruiter1,rec123,recruiter
