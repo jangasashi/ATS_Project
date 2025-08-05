@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore databases
+*.db
+users.csv
+
+# Ignore executables
+*.exe
+
+# Ignore resumes and uploads
+*.pdf
+resumes/
+uploaded_resumes/
+__pycache__/
+*.pyc
+*.db
+users.csv
+*.exe
+*.pdf
+resumes/
+uploaded_resumes/
