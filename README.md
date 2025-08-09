@@ -43,10 +43,20 @@ I served as the **sole developer and architect** of this project. My responsibil
 
 ## 5. Key Features Implemented
 - 🔒 User authentication (login/signup)
+### 🔐 Login Page
+![Login Screenshot](https://github.com/user-attachments/assets/0e464100-4f41-45c4-b931-65fa949cf469)
+
 - 📄 Resume upload functionality (.pdf format)
+![Upload Resume](https://github.com/user-attachments/assets/3098767d-7545-4231-a18e-c1b6c2fb5192)
+
 - 📝 Job description input via text
+![Job Description](https://github.com/user-attachments/assets/9a45f05d-555d-4a69-b13a-d57c5b2deea9)
+
 - 📊 Real-time resume-to-JD matching with percentage scores
+![Matching Result](https://github.com/user-attachments/assets/6cff1a72-edf6-43c1-a246-cafe5f1ff917)
+
 - 🧾 Match history logging with timestamps
+![Match History](https://github.com/user-attachments/assets/3847087d-eb85-43f3-96fd-c46300cfae6a)
 - 📁 Organized folder structure
 
 ## 6. Challenges Faced & Solutions
